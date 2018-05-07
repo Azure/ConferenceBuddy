@@ -1,3 +1,8 @@
+# Conference Buddy
+
+Conference buddy is a bot that demonstrates how can Microsoft AI help with Q&A sessions during a conference.
+
+![Alt text](ConferenceBuddyArchitecture.png?raw=true "Conference Buddy Architecture")
 
 # Contributing
 
