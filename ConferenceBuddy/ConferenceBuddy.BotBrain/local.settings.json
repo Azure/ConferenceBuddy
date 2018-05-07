@@ -1,0 +1,26 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<-- Insert Azure Storage key here -->",
+    "AzureWebJobsDashboard": "<-- Insert Azure Storage key here -->",
+
+    "AzureSearchServiceName": "<-- Insert Azure search service name here -->",
+    "AzureSearchServiceKey": "<-- Insert Azure search service key here -->",
+    "AzureSearchIndexName": "<-- Insert Azure search index name here -->",
+
+    "BingSearchUrl": "<-- Insert Bing Search URL here -->",
+    "BingSearchSubscriptionKey": "<-- Insert Bing Search Subscription Key here -->",
+
+    "QnAMakerUrl": "<-- Insert QnA Maker Url here -->",
+    "QnAMakerSubscriptionKey": "<-- Insert QnA Maker Subscription key here -->",
+    "QnAMakerWhoTaskKnowledgebaseId": "<-- Insert Who task knowledge base id here -->",
+
+    "TextAnalyticsUrl": "<-- Insert Text Analytics Url here -->",
+    "TextAnalyticsSubscriptionKey": "<-- Insert Text Analytics subscription key here -->",
+
+    "VideoIndexerUrl": "<-- Insert Video Indexer Url here -->",
+    "VideoIndexerSubscriptionKey": "<-- Insert Video Indexer Subscription key here -->",
+
+    "MaxResultsCount": 1
+  }
+}
