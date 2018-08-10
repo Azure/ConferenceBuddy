@@ -1,8 +1,22 @@
 # Conference Buddy
 
-Conference buddy is a bot that demonstrates how can Microsoft AI help with Q&A sessions during a conference.
+Conference Buddy is an end-to-end intelligent application that is infused with both conversational 
+and pre-built AI capabilities. Conference Buddy showcases a simple example of how AI can help 
+facilitate more effective Q&A experiences at conferences and presentations with large audiences.
 
+*The following is an AI Oriented Architecture of the Conference Buddy application.*
 ![Alt text](ConferenceBuddyArchitecture.png?raw=true "Conference Buddy Architecture")
+
+## Resources
+
+For more details, please visit: 
+- Blog post, 3 Steps to Build Your First Intelligent App – Conference Buddy: 
+https://aka.ms/conferencebuddyblog
+- Microsoft Channel 9’s AI Show, Building an Intelligent Bot - Conference Buddy: 
+https://aka.ms/conferencebuddyshow
+- An in-depth look into Conference Buddy can be found within the free e-book, Developer’s 
+Guide to Building AI Applications: https://aka.ms/conferencebuddybook
+
 
 # Contributing
 
